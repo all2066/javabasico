@@ -7,7 +7,7 @@
 
 ## Introduction
 Java was created in 1991 by James Gosling, is an high level language that uses the philosophy "write once run anywhere" (WORA).
-This project is the result of a practice about basic commands used in java. We practice with 
+This project is the result of a practice about basic commands used in java. 
 
 ## Technologies
 * Java 8
@@ -24,3 +24,7 @@ This project is the result of a practice about basic commands used in java. We p
 | `Math.sqrt`   |  Returns the square root of the specified number     | 
 | `Math.min`   |  Returns the smaller value among the specified arguments    | 
 | `Math.max`   |  Returns the maximum value among the specified arguments     | 
+
+## Examples
+!(Imagen1)[./images/1.png]
+
