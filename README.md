@@ -26,5 +26,5 @@ This project is the result of a practice about basic commands used in java.
 | `Math.max`   |  Returns the maximum value among the specified arguments     | 
 
 ## Examples
-!(Imagen1)[./images/1.png]
+![](https://github.com/all2066/javabasico/images/1.jpg)
 
